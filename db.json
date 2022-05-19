@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "ROBERTO",
+      "empresa": "Alufe",
+      "email": "tomascalcopietro0@gmail.com",
+      "telefono": "5045267",
+      "notas": "ttttt\n",
+      "id": 2
+    }
+  ]
+}
